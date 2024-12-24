@@ -1,0 +1,89 @@
+[buildPlans.SkyCode]
+family = "Sky Code"
+spacing = "term"
+serifs = "sans"
+noCvSs = false
+exportGlyphNames = true
+
+[buildPlans.SkyCode.variants]
+inherits = "ss14"
+
+[buildPlans.SkyCode.variants.design]
+three = "two-arcs"
+zero = "reverse-slashed-split"
+capital-n = "asymmetric-serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+p = "earless-corner-serifless"
+q = "earless-corner-straight-serifless"
+z = "straight-serifless-with-horizontal-crossbar"
+lower-alpha = "crossing"
+punctuation-dot = "square"
+braille-dot = "square"
+asterisk = "hex-low"
+bar = "force-upright"
+
+[buildPlans.SkyCode.variants.italic]
+three = "two-arcs"
+capital-n = "asymmetric-serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+f = "flat-hook-serifless"
+i = "tailed-serifed"
+k = "cursive-serifless"
+l = "tailed-serifed"
+p = "earless-corner-serifless"
+q = "earless-corner-straight-serifless"
+t = "bent-hook-short-neck"
+v = "cursive-serifless"
+w = "cursive-serifless"
+x = "semi-chancery-curly-serifless"
+z = "straight-serifless-with-horizontal-crossbar"
+lower-alpha = "crossing"
+punctuation-dot = "round"
+braille-dot = "round"
+asterisk = "hex-low"
+bar = "force-upright"
+
+[buildPlans.SkyTerm]
+family = "Sky Term"
+spacing = "normal"
+serifs = "sans"
+noCvSs = false
+exportGlyphNames = true
+
+[buildPlans.SkyTerm.variants]
+inherits = "ss14"
+
+[buildPlans.SkyTerm.variants.design]
+three = "two-arcs"
+zero = "reverse-slashed-split"
+capital-n = "asymmetric-serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+p = "earless-corner-serifless"
+q = "earless-corner-straight-serifless"
+z = "straight-serifless-with-horizontal-crossbar"
+lower-alpha = "crossing"
+punctuation-dot = "square"
+braille-dot = "square"
+asterisk = "hex-low"
+bar = "force-upright"
+
+[buildPlans.SkyTerm.variants.italic]
+three = "two-arcs"
+capital-n = "asymmetric-serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+f = "flat-hook-serifless"
+i = "tailed-serifed"
+k = "cursive-serifless"
+l = "tailed-serifed"
+p = "earless-corner-serifless"
+q = "earless-corner-straight-serifless"
+t = "bent-hook-short-neck"
+v = "cursive-serifless"
+w = "cursive-serifless"
+x = "semi-chancery-curly-serifless"
+z = "straight-serifless-with-horizontal-crossbar"
+lower-alpha = "crossing"
+punctuation-dot = "round"
+braille-dot = "round"
+asterisk = "hex-low"
+bar = "force-upright"
